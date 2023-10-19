@@ -1,4 +1,4 @@
-## Welcome to my [GitHub](https://github.com/LiRiK000) profile!👋
+Welcome to my [GitHub](https://github.com/LiRiK000) profile!👋
 -------
 
 ABOUT ME:
