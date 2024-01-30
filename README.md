@@ -36,5 +36,3 @@ FRONTEND LIBS/FRAMEWORKS:
 Feel free to reach out to me on any of these platforms. I'm always open to collaboration and interesting projects. Let's build the web together! 🚀
 
 [![GitHub followers](https://img.shields.io/github/followers/LiRiK000?label=Follow&style=social)](https://github.com/LiRiK000)
-[![Code Wars](https://img.shields.io/badge/https%3A%2F%2Fwww.codewars.com%2Fusers%2FLiRiKOOO%2Fbadges%2Fmicro)](https://www.codewars.com/users/LiRiKOOO/badges/micro)
-
