@@ -3,11 +3,11 @@ Welcome to my [GitHub](https://github.com/LiRiK000) profile!👋
 
 ABOUT ME:
 
-I'm Kirill, a 17-year-old web developer passionate about creating amazing web applications. I specialize in frontend development and love working with modern technologies.
+I'm Kirill, a 18-year-old web developer passionate about creating amazing web applications. I specialize in frontend development and love working with modern technologies.
 
 - My username is **LiRiK**
 - I'm from a **Russia**
-- I am **17** years old
+- I am **18** years old
 - I am **FRONTEND** Web Developer
 
 MY SOCIALS:
