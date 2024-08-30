@@ -3,7 +3,7 @@ Welcome to my [GitHub](https://github.com/LiRiK000) profile!👋
 
 ABOUT ME:
 
-I'm Kirill, a 18-year-old web developer passionate about creating amazing web applications. I specialize in frontend development and love working with modern technologies.
+Hi there! I'm Kirill, an 18-year-old frontend web developer from Russia, passionate about building modern and intuitive web applications. My journey in web development has been fueled by a deep love for learning and a desire to create visually stunning and highly functional user experiences.
 
 - My username is **LiRiK**
 - I'm from a **Russia**
@@ -24,7 +24,6 @@ PROGRAMMING LANHUAGES:
 
 [![typescript](https://img.shields.io/static/v1?label=&message=JavaScript&color=1E1E1E&style=for-the-badge&logo=javascript&logoColor=yellow)](https://js.org/)
 [![typescript](https://img.shields.io/static/v1?label=&message=TypeScript&color=191919&style=for-the-badge&logo=typescript&logoColor=blue)](https://www.typescriptlang.org/)
-[![typescript](https://img.shields.io/static/v1?label=&message=python&color=1E1E1E&style=for-the-badge&logo=python&logoColor=green)](https://www.python.org/)
 
 FRONTEND LIBS/FRAMEWORKS:
 
@@ -33,6 +32,8 @@ FRONTEND LIBS/FRAMEWORKS:
 [![mui](https://img.shields.io/static/v1?label=&message=Bootstrap&color=1E1E1E&style=for-the-badge&logo=bootstrap&logoColor=purpl)](https://getbootstrap.com/)
 [![React Bootstrap](https://img.shields.io/static/v1?label=&message=React%20Bootstrap&color=1E1E1E&style=for-the-badge&logo=react&logoColor=blue)](https://react-bootstrap.github.io/)
 
-Feel free to reach out to me on any of these platforms. I'm always open to collaboration and interesting projects. Let's build the web together! 🚀
+LET'S BUILD THE WEB TOGETHER! 🚀
+
+I'm open to collaborating on projects that push the boundaries of what's possible on the web. Whether it's working on a cutting-edge frontend framework, building a dynamic web application, or just experimenting with new technologies, I'm all in. Let's connect and create something amazing together!
 
 [![GitHub followers](https://img.shields.io/github/followers/LiRiK000?label=Follow&style=social)](https://github.com/LiRiK000)
