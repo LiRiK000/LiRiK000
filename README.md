@@ -3,7 +3,7 @@ Welcome to my [GitHub](https://github.com/LiRiK000) profile!👋
 
 ABOUT ME:
 
-Hi there! I'm Kirill, an 18-year-old frontend web developer from Russia, passionate about building modern and intuitive web applications. My journey in web development has been fueled by a deep love for learning and a desire to create visually stunning and highly functional user experiences.
+Hi there! I'm Kirill, an 19-year-old frontend web developer from Russia, passionate about building modern and intuitive web applications. My journey in web development has been fueled by a deep love for learning and a desire to create visually stunning and highly functional user experiences.
 
 - My username is **LiRiK**
 - I'm from a **Russia**
